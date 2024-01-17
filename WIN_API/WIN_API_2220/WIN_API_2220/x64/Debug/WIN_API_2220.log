@@ -1,0 +1,189 @@
+﻿  framework.cpp
+  DisJointSet.cpp
+  Block.cpp
+  Maze.cpp
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Maze.cpp(48,61): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Maze.cpp(170,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Maze.cpp(171,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Maze.cpp(179,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Maze.cpp(180,9): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Maze.cpp(277,10): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Maze.cpp(278,10): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(145,14): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(145,21): warning C4244: '인수': 'float'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(165,21): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(165,30): warning C4244: '인수': 'float'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(183,20): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(183,29): warning C4244: '인수': 'float'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(184,15): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(184,24): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(200,26): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(200,35): warning C4244: '인수': 'float'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(209,22): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(209,31): warning C4244: '인수': 'float'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(210,17): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(210,26): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(218,30): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(218,37): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(219,20): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(219,27): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(250,12): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(250,21): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(251,20): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(251,29): warning C4244: '인수': 'float'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(252,15): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(252,24): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(266,16): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(266,24): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(278,41): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(278,49): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(280,18): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(280,27): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(287,14): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(287,23): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(289,22): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(289,31): warning C4244: '인수': 'float'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(290,17): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(290,26): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(298,30): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(298,37): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(299,20): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(299,27): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(332,12): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(332,21): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(333,20): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(333,29): warning C4244: '인수': 'float'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(334,15): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(334,24): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(348,20): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(348,32): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(364,18): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(364,27): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(373,14): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(373,23): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(375,22): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(375,31): warning C4244: '인수': 'float'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(376,17): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(376,26): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(384,30): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(384,37): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(385,20): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Maze\Player.cpp(385,27): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MazeScene.cpp
+  Ball.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2021): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Construct_in_place<_Ty,Vector2,int>(_Ty &,Vector2 &&,int &&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2747): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Object\Cannon\Ball.cpp(6): message : 컴파일되는 함수 템플릿 인스턴스화 'std::shared_ptr<CircleCollider> std::make_shared<CircleCollider,Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+  Line.cpp
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\Line.cpp(33,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\Line.cpp(33,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\Line.cpp(34,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\Line.cpp(34,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ProjectionScene.cpp
+  LineScene.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2021): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Construct_in_place<_Ty,Vector2,int>(_Ty &,Vector2 &&,int &&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2747): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Scene\LineScene.cpp(12): message : 컴파일되는 함수 템플릿 인스턴스화 'std::shared_ptr<CircleCollider> std::make_shared<CircleCollider,Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+  Barrel.cpp
+  CannonScene.cpp
+  Cannon.cpp
+  Collider.cpp
+  CollisionScene.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2021): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Construct_in_place<_Ty,Vector2,int>(_Ty &,Vector2 &&,int &&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2747): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Scene\CollisionScene.cpp(6): message : 컴파일되는 함수 템플릿 인스턴스화 'std::shared_ptr<CircleCollider> std::make_shared<CircleCollider,Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+  CircleCollider.cpp
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\CircleCollider.cpp(33,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\CircleCollider.cpp(33,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\CircleCollider.cpp(33,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\CircleCollider.cpp(33,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Vector2.cpp
+  RectCollider.cpp
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\RectCollider.cpp(28,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\RectCollider.cpp(28,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\RectCollider.cpp(28,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Framework\Collider\RectCollider.cpp(28,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PaintScene.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xutility(158,77): warning C4244: '인수': '_Ty'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2021): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Construct_in_place<_Ty,Vector2,int>(_Ty &,Vector2 &&,int &&) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2747): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\memory(2748): message : 컴파일되는 함수 템플릿 인스턴스화 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CircleCollider
+          ]
+D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\WIN_API_2220\Scene\PaintScene.cpp(7): message : 컴파일되는 함수 템플릿 인스턴스화 'std::shared_ptr<CircleCollider> std::make_shared<CircleCollider,Vector2,int>(Vector2 &&,int &&)'에 대한 참조를 확인하세요.
+  Program.cpp
+  Scene.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  WIN_API_2220.cpp
+  코드를 생성하고 있습니다...
+  WIN_API_2220.vcxproj -> D:\Study\DX2022_20-main\DX2022_20-main\WIN_API\WIN_API_2220\x64\Debug\WIN_API_2220.exe
