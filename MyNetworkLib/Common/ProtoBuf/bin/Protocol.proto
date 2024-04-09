@@ -1,0 +1,71 @@
+syntax = "proto3";
+package Protocol;
+
+import "Enum.proto";
+import "Struct.proto";
+
+message S_TEST
+{
+	uint64 id = 1;
+	uint32 hp = 2;
+	uint32 attack = 3;
+	repeated BuffData buffs = 4;
+
+	//enum PacketId { NONE = 0; PACKET_ID = 1; }
+}
+
+message C_CREATE_ACCOUNT
+{
+	string id = 1;
+	string passWord = 2;
+	string name = 3;
+}
+
+message S_CREATE_ACCOUNT
+{
+	bool success = 1;
+	string id = 2;
+	string passWord = 3;
+	string name = 4;
+}
+
+message C_LOGIN
+{
+	string id = 1;
+	string passWord = 2;
+}
+
+message S_LOGIN
+{
+	bool success = 1;
+	string name = 2;
+}
+
+message C_ENTER_GAME
+{
+	string name = 1;
+}
+
+message S_ENTER_GAME
+{
+	bool success = 1;
+	repeated PlayerData players = 2;
+}
+
+message S_LEAVE_GAME
+{
+	string name = 1;
+}
+
+message C_CHAT
+{
+	string name = 1;
+	string msg = 2;
+}
+
+message S_CHAT
+{
+	MsgType msgType = 1;
+	string name = 2;
+	string msg = 3;
+}
