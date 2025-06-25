@@ -38,7 +38,7 @@ bool IocpCore::Dispatch(uint32 timeoutMs)
 			return false;
 
 		default:
-			// TODO : ·Î±× Âï±â
+			// TODO : ï¿½Î±ï¿½ ï¿½ï¿½ï¿½
 			IocpObjectRef iocpObject = iocpEvent->owner;
 			iocpObject->Dispatch(iocpEvent, numOfBytes);
 			break;
