@@ -44,12 +44,12 @@ bool Handle_S_CREATE_ACCOUNT(PacketSessionRef& session, Protocol::S_CREATE_ACCOU
 
 		wcin.imbue(locale("kor"));
 		wcout.imbue(locale("kor"));
-		std::wcout << L"È¸¿ø°¡ÀÔ ½ÇÆÐ" << endl;
-		std::wcout << L"´Ù½Ã Id¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä." << endl;
+		std::wcout << L"È¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½" << endl;
+		std::wcout << L"ï¿½Ù½ï¿½ Idï¿½ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½." << endl;
 		std::wcin >> id;
-		std::wcout << L"´Ù½Ã ºñ¹Ð¹øÈ£¸¦ ÀÔ·ÂÁÖ¼¼¿ä." << endl;
+		std::wcout << L"ï¿½Ù½ï¿½ ï¿½ï¿½Ð¹ï¿½È£ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½." << endl;
 		std::wcin >> passWord;
-		std::wcout << L"´Ù½Ã ´Ð³×ÀÓÀ» ÀÔ·ÂÁÖ¼¼¿ä." << endl;
+		std::wcout << L"ï¿½Ù½ï¿½ ï¿½Ð³ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½." << endl;
 		std::wcin >> name;
 
 		accountPkt.set_id(Utils::UTF16toUTF8(id));
@@ -72,7 +72,7 @@ bool Handle_S_LOGIN(PacketSessionRef& session, Protocol::S_LOGIN& pkt)
 	{
 		GPlayer->SetSession(session);
 		GPlayer->SetName(name);
-		// TODO : ·Î±×ÀÎ ¼º°ø, ¹æÀÔÀå 
+		// TODO : ï¿½Î±ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 
 
 		Protocol::C_ENTER_GAME enterPkt;
 		enterPkt.set_name(Utils::UTF16toUTF8(name));
@@ -86,7 +86,7 @@ bool Handle_S_LOGIN(PacketSessionRef& session, Protocol::S_LOGIN& pkt)
 	else
 	{
 		GPlayer->Init();
-		// TODO : ·Î±×ÀÎ ½ÇÆÐ Àç·Î±×ÀÎ ¿äÃ»
+		// TODO : ï¿½Î±ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î±ï¿½ï¿½ï¿½ ï¿½ï¿½Ã»
 		Protocol::C_CREATE_ACCOUNT accountPkt;
 
 		String id;
@@ -95,13 +95,13 @@ bool Handle_S_LOGIN(PacketSessionRef& session, Protocol::S_LOGIN& pkt)
 
 		wcin.imbue(locale("kor"));
 		wcout.imbue(locale("kor"));
-		std::wcout << L"·Î±×ÀÎ ½ÇÆÐ!!!" << endl;
-		std::wcout << L"È¸¿ø°¡ÀÔÀ» ÇÏ·Á¸é..." << endl;
-		std::wcout << L"Id¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä." << endl;
+		std::wcout << L"ï¿½Î±ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½!!!" << endl;
+		std::wcout << L"È¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ï·ï¿½ï¿½ï¿½..." << endl;
+		std::wcout << L"Idï¿½ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½." << endl;
 		std::wcin >> id;
-		std::wcout << L"ºñ¹Ð¹øÈ£¸¦ ÀÔ·ÂÁÖ¼¼¿ä." << endl;
+		std::wcout << L"ï¿½ï¿½Ð¹ï¿½È£ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½." << endl;
 		std::wcin >> passWord;
-		std::wcout << L"´Ð³×ÀÓÀ» ÀÔ·ÂÁÖ¼¼¿ä." << endl;
+		std::wcout << L"ï¿½Ð³ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½." << endl;
 		std::wcin >> name;
 
 		accountPkt.set_id(Utils::UTF16toUTF8(id));
@@ -135,7 +135,7 @@ bool Handle_S_ENTER_GAME(PacketSessionRef& session, Protocol::S_ENTER_GAME& pkt)
 	}
 	else
 	{
-		// TODO : ¹æÀÔÀå ½ÇÆÐ
+		// TODO : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 		GRoom->Init();
 		GRoom->isActive = false;
 	}

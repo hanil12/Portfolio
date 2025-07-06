@@ -28,7 +28,7 @@ void GameSession::OnRecvPacket(BYTE* buffer, int32 len)
 	PacketSessionRef session = GetPacketSessionRef();
 	PacketHeader* header = reinterpret_cast<PacketHeader*>(buffer);
 
-	// Å¬¶óÀÌ¾ðÆ®°¡ º¸³½ ÆÐÅ¶ÀÎÁö °Ë»ç
+	// Å¬ï¿½ï¿½ï¿½Ì¾ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å¶ï¿½ï¿½ï¿½ï¿½ ï¿½Ë»ï¿½
 	ClientPacketHandler::HandlePacket(session, buffer, len);
 }
 

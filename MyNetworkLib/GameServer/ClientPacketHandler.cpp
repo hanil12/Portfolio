@@ -112,7 +112,7 @@ bool Handle_C_LOGIN(PacketSessionRef& session, Protocol::C_LOGIN& pkt)
 	if (count == 0)
 	{
 		logPkt.set_success(false);
-		// TODO : ·Î±×ÀÎ ½ÇÆÐ
+		// TODO : ï¿½Î±ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 	}
 	else
 	{
@@ -137,7 +137,7 @@ bool Handle_C_LOGIN(PacketSessionRef& session, Protocol::C_LOGIN& pkt)
 		}
 
 		logPkt.set_name(Utils::UTF16toUTF8(name));
-		// TODO : ·Î±×ÀÎ ¼º°ø
+		// TODO : ï¿½Î±ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 	}
 	auto sendBuffer = ClientPacketHandler::MakeSendBuffer(logPkt);
 	session->Send(sendBuffer);
@@ -170,10 +170,10 @@ bool Handle_C_ENTER_GAME(PacketSessionRef& session, Protocol::C_ENTER_GAME& pkt)
 	auto enterSendBuffer = ClientPacketHandler::MakeSendBuffer(enterPkt);
 	GRoom->Broadcast(enterSendBuffer);
 
-	// ÀÔÀå Announce
+	// ï¿½ï¿½ï¿½ï¿½ Announce
 	Protocol::S_CHAT announcePkt;
 	wstring temp = player->name.c_str();
-	temp += L"²²¼­ ÀÔÀåÇÏ¼Ë½À´Ï´Ù.";
+	temp += L"ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¼Ë½ï¿½ï¿½Ï´ï¿½.";
 	String announceMsg = temp.c_str();
 	announcePkt.set_msgtype(Protocol::MsgType::ANNOUNCE);
 	announcePkt.set_msg(Utils::UTF16toUTF8(announceMsg));
